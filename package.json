@@ -16,7 +16,8 @@
   "author": "game124info<game124info@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/game124info/test-package/issues"
+    "url": "https://github.com/game124info/test-package/issues",
+    "email" : "game124info@gmail.com"
   },
   "homepage": "https://github.com/game124info/test-package#readme",
   "devDependencies": {
