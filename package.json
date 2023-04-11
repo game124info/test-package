@@ -1,0 +1,26 @@
+{
+  "name": "npm-package-live",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/game124info/test-package.git"      
+  },
+  "keywords": [],
+  "author": "game124info<game124info@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/game124info/test-package/issues"
+  },
+  "homepage": "https://github.com/game124info/test-package#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "files": ["lib/**/*"]
+}
