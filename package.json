@@ -1,6 +1,6 @@
 {
   "name": "npm-package-live",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "test package",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/game124info/test-package.git"      
   },
-  "keywords": [],
+  "keywords": ["cli","test"],
   "author": "game124info<game124info@gmail.com>",
   "license": "MIT",
   "bugs": {
