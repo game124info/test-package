@@ -10,18 +10,30 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/game124info/test-package.git"      
+    "url": "git+https://github.com/game124info/test-package.git"
   },
-  "keywords": ["cli","test"],
+  "keywords": [
+    "cli",
+    "test"
+  ],
   "author": "game124info<game124info@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/game124info/test-package/issues",
-    "email" : "game124info@gmail.com"
+    "email": "game124info@gmail.com"
   },
   "homepage": "https://github.com/game124info/test-package#readme",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.58.0",
+    "eslint": "^8.38.0",
+    "eslint-config-standard-with-typescript": "^34.0.1",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.7.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-react": "^7.32.2",
     "typescript": "^5.0.4"
   },
-  "files": ["lib/**/*"]
+  "files": [
+    "lib/**/*"
+  ]
 }
